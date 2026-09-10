@@ -1,0 +1,12 @@
+name: TestBetterLitePlugin
+main: TestBetterLitePlugin\Main
+version: 0.1.0
+api:
+  - 5.0.0
+betterlite-api: 0.1.0
+src-namespace-prefix: TestBetterLitePlugin
+description: Test plugin for the BetterLite API
+author: BetterLite
+
+commands: {}
+permissions: {}
